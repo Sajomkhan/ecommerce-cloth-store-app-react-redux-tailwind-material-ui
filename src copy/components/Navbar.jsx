@@ -4,7 +4,7 @@ import { Search, ShoppingCartOutlined } from '@mui/icons-material';
 import { Link } from 'react-router-dom';
 import { useDispatch, useSelector } from 'react-redux';
 import { selectTotalQTY, setOpenCart } from '../features/CartSlice.js';
-import Carts from '../features/Carts';
+import Carts from '../pages/Carts';
 
 const style =
   'text-[14px], cursor-pointer, ml-[25px] hover:text-blue-700 md:font-bold';
