@@ -1,9 +1,9 @@
 # A awesome Ecommerce App with React, Redux, Tailwindcss & Material-UI
 ### Full Mobile Responsive App
 
-#### Go to Live Project: https://ecommerce-store-react-redux-taildwind.netlify.app/
+#### Go to Live Project: https://ecommerce-store-react-redux-tailwind.netlify.app/
 
-[![image](./public/image.jpg)](https://ecommerce-store-react-redux-taildwind.netlify.app/)
+[![image](./public/image.jpg)](https://ecommerce-store-react-redux-tailwind.netlify.app/)
 
 ### Full Mobile Responsive Web Page
 
