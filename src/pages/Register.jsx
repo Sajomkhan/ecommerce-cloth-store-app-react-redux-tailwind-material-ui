@@ -34,10 +34,10 @@ const Register = () => {
                 htmlFor="name"
                 className="font-bold text-gray-800"
               >
-                Name:
+                Password:
               </label>
               <div className="my-1 px-2 py-1 lg:w-[500px] border-[2px] border-solid border-lightgrey rounded-md focus-within:border-[#8a4af3]">
-                <input type='text' className="outline-none bg-transparent" placeholder="Name" />
+                <input type='password' className="outline-none bg-transparent" placeholder="password" />
               </div>
             </div>
             <div className='md:mx-11 my-5'>
@@ -45,10 +45,10 @@ const Register = () => {
                 htmlFor="name"
                 className="font-bold text-gray-800"
               >
-                Name:
+                Confirm Password:
               </label>
               <div className="my-1 px-2 py-1 py-1lg:w-[500px] border-[2px] border-solid border-lightgrey rounded-md focus-within:border-[#8a4af3]">
-                <input type='text' className="outline-none bg-transparent" placeholder="Name" />
+                <input type='passowrd' className="outline-none bg-transparent" placeholder="confirmPassword" />
               </div>
             </div>
             {/* register button */}
