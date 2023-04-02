@@ -12,6 +12,7 @@
 
 ### What I use here:
 * React
+* Redux
 * Tailwindcss
 * Material-UI
 * material-Icons
